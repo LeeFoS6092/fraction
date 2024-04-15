@@ -1,0 +1,26 @@
+[
+{
+  "directory": "C:/Users/kiril/OneDrive/Рабочий стол/ОП/Лабы/division/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -g -std=gnu++17 -o CMakeFiles\\main.dir\\main.cpp.obj -c \"C:\\Users\\kiril\\OneDrive\\Рабочий стол\\ОП\\Лабы\\division\\main.cpp\"",
+  "file": "C:\\Users\\kiril\\OneDrive\\Рабочий стол\\ОП\\Лабы\\division\\main.cpp",
+  "output": "CMakeFiles\\main.dir\\main.cpp.obj"
+},
+{
+  "directory": "C:/Users/kiril/OneDrive/Рабочий стол/ОП/Лабы/division/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -g -std=gnu++17 -o CMakeFiles\\main.dir\\Fraction.cpp.obj -c \"C:\\Users\\kiril\\OneDrive\\Рабочий стол\\ОП\\Лабы\\division\\Fraction.cpp\"",
+  "file": "C:\\Users\\kiril\\OneDrive\\Рабочий стол\\ОП\\Лабы\\division\\Fraction.cpp",
+  "output": "CMakeFiles\\main.dir\\Fraction.cpp.obj"
+},
+{
+  "directory": "C:/Users/kiril/OneDrive/Рабочий стол/ОП/Лабы/division/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -g -std=gnu++17 -o CMakeFiles\\main.dir\\Complex.cpp.obj -c \"C:\\Users\\kiril\\OneDrive\\Рабочий стол\\ОП\\Лабы\\division\\Complex.cpp\"",
+  "file": "C:\\Users\\kiril\\OneDrive\\Рабочий стол\\ОП\\Лабы\\division\\Complex.cpp",
+  "output": "CMakeFiles\\main.dir\\Complex.cpp.obj"
+},
+{
+  "directory": "C:/Users/kiril/OneDrive/Рабочий стол/ОП/Лабы/division/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -g -std=gnu++17 -o CMakeFiles\\main.dir\\Quadro.cpp.obj -c \"C:\\Users\\kiril\\OneDrive\\Рабочий стол\\ОП\\Лабы\\division\\Quadro.cpp\"",
+  "file": "C:\\Users\\kiril\\OneDrive\\Рабочий стол\\ОП\\Лабы\\division\\Quadro.cpp",
+  "output": "CMakeFiles\\main.dir\\Quadro.cpp.obj"
+}
+]
